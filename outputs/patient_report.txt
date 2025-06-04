@@ -1,0 +1,17 @@
+Patient Report
+================
+age: 45.0
+sex: 1
+cp: 3
+trestbps: 130.0
+chol: 250.0
+fbs: 1
+restecg: 0
+thalach: 150.0
+exang: 1
+oldpeak: 1.5
+slope: 2
+ca: 0
+thal: 3
+
+Diagnosis: Positive (Heart Disease Detected)
